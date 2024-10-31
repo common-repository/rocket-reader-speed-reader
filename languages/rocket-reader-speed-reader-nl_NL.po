@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rocket Reader Speed Reader\n"
+"POT-Creation-Date: 2017-01-28 15:39+0100\n"
+"PO-Revision-Date: 2017-01-28 15:39+0100\n"
+"Last-Translator: Rolf van Gelder <info@cagewebdev.com>\n"
+"Language-Team: CAGE <info@cagewebdev.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: C:/Dropbox/cagewebdev/wp-content/plugins/rocket-reader-"
+"speed-reader\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/settings.php:30
+msgid "Rocket Reader SETTINGS UPDATED!"
+msgstr "Rocket Reader INSTELLINGEN OPGESLAGEN!"
+
+#: admin/settings.php:67
+msgid "Rocket Reader - Settings"
+msgstr "Rocket Reader - Instellingen"
+
+#: admin/settings.php:71
+msgid "Plugin version"
+msgstr "Plugin versie"
+
+#: admin/settings.php:72
+msgid "Plugin page"
+msgstr "Plugin pagina"
+
+#: admin/settings.php:74
+msgid "Download page"
+msgstr "Download pagina"
+
+#: admin/settings.php:76
+msgid "Donation page"
+msgstr "Donatie pagina"
+
+#: admin/settings.php:83
+msgid ""
+"Initial <strong>Number Of Words Per Minute</strong> (will be overridden by "
+"the user's cookie, if set)"
+msgstr ""
+"Intieel <strong>Aantal Woorden Per Minuut</strong> (wordt overschreven door "
+"de cookie van de gebruiker, indien gebruikt)"
+
+#: admin/settings.php:89
+msgid ""
+"Minimum <strong>Number of Words</strong> per post / page for showing the "
+"Rocket Reader button ('0' means NO minimum)"
+msgstr ""
+"Minimaal <strong>aantal woorden</strong> per bericht / pagina waarbij de "
+"Rocket Reader button wordt getoond ('0' betekent GEEN minimum)"
+
+#: admin/settings.php:94
+msgid "Use a <strong>Popup Window</strong> for displaying the animated text"
+msgstr ""
+"Gebruik een <strong>Popup Window</strong> om de geanimeerde tekst te tonen"
+
+#: admin/settings.php:101
+msgid "The following colors should be in \"#FFF\" or \"#FFFFFF\" format!"
+msgstr ""
+"De volgende kleuren moeten het formaat  \"#FFF\" of \"#FFFFFF\"  hebben!"
+
+#: admin/settings.php:105
+msgid "Background color container"
+msgstr "Achtergrondkleur container"
+
+#: admin/settings.php:110
+msgid "Border color container"
+msgstr "Kaderkleur container"
+
+#: admin/settings.php:115
+msgid "Text color"
+msgstr "Tekstkleur"
+
+#: admin/settings.php:120
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+#: admin/settings.php:125
+msgid "Border color"
+msgstr "Kaderkleur"
+
+#: admin/settings.php:130
+msgid "Focal point color"
+msgstr "Kleur van het Focus Punt"
+
+#: admin/settings.php:135
+msgid "Save Settings"
+msgstr "Bewaar Instellingen"
+
+#: admin/settings.php:136
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: admin/settings.php:155
+msgid ""
+"A quick way to ADD or DELETE the Rocket Reader to / from ALL posts / pages"
+msgstr ""
+"Een snelle manier om de Rocket Reader aan alle berichten / pagina's toe te "
+"voegen of te verwijderen"
+
+#: admin/settings.php:156
+msgid ""
+"To show the Rocket Reader on a specific post / page: add a custom field "
+"named <strong>enable_rocket_reader</strong> and give it the value <strong>Y</"
+"strong>"
+msgstr ""
+"Om de Rocket Reader bij een specifiek bericht of op specifieke pagina te "
+"tonen: voeg een extra veld toe met de naam <strong>enable_rocket_reader</"
+"strong> en geef het de waarde <strong>Y</strong>"
+
+#: admin/settings.php:163
+msgid "ADD TO ALL"
+msgstr "VOEG TOE AAN ALLE"
+
+#: admin/settings.php:168
+msgid "DELETE FROM ALL"
+msgstr "VERWIJDER VAN ALLE"
+
+#: rvg-rocket-reader.php:182
+msgid "speed"
+msgstr "snelheid"
+
+#: rvg-rocket-reader.php:183
+msgid "words"
+msgstr "woorden"
+
+#: rvg-rocket-reader.php:184
+msgid "minute"
+msgstr "minuut"
+
+#: rvg-rocket-reader.php:185
+msgid "bold on/off"
+msgstr "vet aan/af"
+
+#: rvg-rocket-reader.php:186
+msgid "decrease speed"
+msgstr "langzamer"
+
+#: rvg-rocket-reader.php:187
+msgid "increase speed"
+msgstr "sneller"
+
+#: rvg-rocket-reader.php:188
+msgid "pause"
+msgstr "pauze"
+
+#: rvg-rocket-reader.php:189
+msgid "resume"
+msgstr "doorgaan"
+
+#: rvg-rocket-reader.php:190
+msgid "close"
+msgstr "sluiten"
+
+#: rvg-rocket-reader.php:191
+msgid "Read this article with the Rocket Reader!"
+msgstr "Lees dit artikel met de Rocket Reader!"
+
+#: rvg-rocket-reader.php:216
+msgid "Rocket Reader"
+msgstr "Rocket Reader"
+
+#~ msgid "Rocket Reader OPTIONS UPDATED!"
+#~ msgstr "Rocket Reader OPTIES GEWIJZIGD!"
+
+#~ msgid "Rocket Reader Opts"
+#~ msgstr "Rocket Reader Opties"
+
+#~ msgid ""
+#~ "A Speed Reading Plugin: read the content of a web page / blog up to 80 "
+#~ "percent faster"
+#~ msgstr ""
+#~ "Een 'Speed Reading' plugin: lees de inhoud van een webpagina / blog tot "
+#~ "80 procent sneller"
+
+#~ msgid "Author"
+#~ msgstr "Auteur"
+
+#~ msgid "The Netherlands"
+#~ msgstr "Nederland"
+
+#~ msgid "Rocket Reader Options"
+#~ msgstr "Rocket Reader Opties"
+
+#~ msgid "save options"
+#~ msgstr "bewaar opties"
+
+#~ msgid "cancel"
+#~ msgstr "annuleer"
+
+#~ msgid "Container background color"
+#~ msgstr "Achtergrondkleur container"
+
+#~ msgid "Container border color"
+#~ msgstr "Kaderkleur container"
+
+#~ msgid "A Speed Reading Plugin:"
+#~ msgstr "Een 'Speed Reading' plugin:"
